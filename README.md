@@ -15,7 +15,9 @@ O LRCOMMERCE é uma loja de e-commerce full-stack com painel administrativo, tot
 5. **Você precisa colocar o seguinte código no arquivo .env e em vez de nome de usuário e senha coloque seu nome de usuário e senha do MySQL:**
    
   `DATABASE_URL="mysql://username:password@localhost:3306/singitronic_nextjs"`
+  
   `NEXTAUTH_SECRET=12D16C923BA17672F89B18C1DB22A`
+  
   `NEXTAUTH_URL=http://localhost:3000`
 
 7. **Depois de fazer isso, você precisa criar outro arquivo `.env` na pasta `server` e colocar o mesmo DATABASE_URL usado no arquivo `.env` anterior:**
