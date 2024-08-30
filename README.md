@@ -1,4 +1,4 @@
-**Resumo do Projeto: Loja de E-commerce de Eletrônicos com Dashboard Administrativo em Next.js e Node.js**
+**Resumo do Projeto: Loja de E-commerce (LRCOMMERCE) de Eletrônicos em Next.js e Node.js**
 
 O projeto “LRCOMMERCE” é uma loja de e-commerce desenvolvida com Next.js, Node.js e MySQL. A aplicação, que inclui um painel administrativo completo, é totalmente personalizada e responsiva. Foi criada como parte de um TCC de um curso técnico.
 
